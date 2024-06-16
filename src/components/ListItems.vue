@@ -12,6 +12,7 @@
           <span class="text-sm px-2 py-0.5 rounded-full text-white" :class="post.completed ? 'bg-green-400' : ' bg-orange-400'">
             {{ post.completed ? "Completed" : "Not Completed" }}
           </span>
+          <span>hellooooo</span>
         </div>
       </div>
     </div>
